@@ -5,7 +5,7 @@ title = 'About me'
 
 I'm a master's student in Computer Science specializing in systems programming. I like to spend time thinking about things. 
 
-Current fixations: embedded C on STM32, C++, classical Arabic morphosyntax & grammar, existentialism.
+Current fixations: embedded C on STM32, obscure C++ features, classical Arabic morphosyntax & grammar, existentialism.
 
 Currently reading:
 
