@@ -1,0 +1,59 @@
+.row {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.row > ul {
+  flex: 1;
+  margin: 0;
+}
+
+.row a {
+  color: var(--foreground);
+  text-decoration: underline;
+}
+
+.row > img {
+  flex: 1;
+  max-width: 50%;
+  height: auto;
+  margin: 0;
+}
+
+@media (max-width: 684px) {
+  .row {
+    flex-direction: column;
+  }
+  .row > img {
+    max-width: 100%;
+  }
+}
+
+body, code, kbd, pre {
+  font-family:
+    "Fira Code",
+    "Amiri",
+    "JetBrains Mono",
+    Monaco,
+    Consolas,
+    "Ubuntu Mono",
+    monospace;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  Justify-content: center;
+  gap: 4px;
+  margin-top: 40px;
+}
+
+.badges img {
+  height: 33px;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  image-rendering: pixelated;
+}
