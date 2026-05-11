@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="placeholder cover image">
+  <rect width="800" height="400" fill="#1a1a1a"/>
+  <g fill="none" stroke="#333" stroke-width="1">
+    <path d="M0 100 H800 M0 200 H800 M0 300 H800"/>
+    <path d="M100 0 V400 M200 0 V400 M300 0 V400 M400 0 V400 M500 0 V400 M600 0 V400 M700 0 V400"/>
+  </g>
+  <text x="400" y="210" font-family="monospace" font-size="32" fill="#888" text-anchor="middle">placeholder cover</text>
+</svg>

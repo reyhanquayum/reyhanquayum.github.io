@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = 'About me'
 +++
 
@@ -20,7 +20,6 @@ Currently reading:
     <li><a href="https://github.com/reyhanquayum"><i class="fa-brands fa-github"></i> reyhanquayum</a></li>
     <li><a href="mailto:reyhan.quayum@gmail.com"><i class="fa-regular fa-envelope"></i> reyhan.quayum@gmail.com</a></li>
     <li><a href="https://www.linkedin.com/in/reyhan-quayum/"><i class="fa-brands fa-linkedin"></i> Reyhan Quayum</a></li>
-    <li><i class="fa-brands fa-discord"></i> reyhan8720</li>
   </ul>
   <img src="desk.jpg" alt="desk" />
 </div>
